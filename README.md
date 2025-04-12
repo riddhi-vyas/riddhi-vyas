@@ -1,3 +1,13 @@
+<!--
+Hi, I'm Riddhi Vyas, a Data Engineer with over three years of experience in software development and machine learning.
+
+- I'm interested in Fall 2024 internship opportunities/full-time opportunities starting May 2025 in California, USA for Data Engineer/Machine Learning Roles.
+- I'm currently pursuing MS in Data Analytics.
+- How to reach me - https://www.linkedin.com/in/riddhi-vyas-932820140
+- Follow me on Youtube - http://www.youtube.com/@Riddhi_s_moments
+- Follow me on Instagram - https://www.instagram.com/riddhi_s_moments/
+-->
+
 <h1 align="center">Hi 👋, I'm Riddhi Vyas</h1>
 <p align="center">
   🚀 Data Engineer | AI & ML Enthusiast | Master's @ SJSU | Open to May 2025 Roles
@@ -9,9 +19,9 @@
 
 I'm a Data Engineer with 3+ years of experience in software development, data engineering, and applied machine learning. Currently pursuing my MS in Data Analytics at **San Jose State University**, I’m seeking **full-time roles in Data Engineering, ML Engineering, or GenAI** starting **May 2025**.
 
-- 🔭 Working on: Deploying LLMs with RAG, vector DBs, and LORA fine-tuning
-- 📚 Exploring: Distributed training, inference optimization, scalable pipelines
-- 🎯 Passionate about: Real-world AI applications in healthcare, education & energy
+- 🔭 Working on: Deploying LLMs with RAG, vector DBs, and LORA fine-tuning  
+- 📚 Exploring: Distributed training, inference optimization, scalable pipelines  
+- 🎯 Passionate about: Real-world AI applications in healthcare, education & energy  
 - 🤝 Let’s connect: [LinkedIn](https://www.linkedin.com/in/riddhi-vyas-932820140)
 
 ---
@@ -30,15 +40,23 @@ I'm a Data Engineer with 3+ years of experience in software development, data en
 
 ### 🧠 Featured Projects
 
-#### 🟨 [InvadeAI: Multimodal AI for Interactive Advertising](https://github.com/riddhi-vyas/InvadeAI-Multimodal-AI-for-Interactive-Advertising)
-> IEEE CAI 2025 Accepted Paper | Used YOLOv8 + BLIP3 + LLaMA3  
-> 📌 Built an AI system for personalized advertising using multimodal data (image + text)
+#### 🟨 [InvadeAI: Multimodal AI for Interactive Advertising](https://github.com/riddhi-vyas/InvadeAI)
+> 📰 *IEEE CAI 2025 Accepted Paper*  
+> 📌 Built a multimodal AI system using YOLOv8, BLIP-3, and LLaMA3 for personalized advertising based on images, audio, and transcripts. Integrated vector search and GenAI-based personalization.
 
 #### 🟩 [Smart Solar Energy Scheduling with ML](https://github.com/riddhi-vyas/Smart-Solar-Energy-Scheduling-with-Machine-Learning)
-> Energy optimization project using weather + EV charging + solar data
+> ⚡ Optimized EV charging and home energy use using ML models. Integrated weather, solar, and consumption data into a predictive scheduling system.
 
-#### 🟦 [Real-Time Crypto Arbitrage Detection](https://github.com/riddhi-vyas/Smart-Solar-Energy-Scheduling-with-Machine-Learning)
-> Streaming + Spark + Time Series | Detected cross-exchange arbitrage in crypto
+#### 🟦 [Real-Time Crypto Arbitrage Detection](https://github.com/riddhi-vyas/Real-time-Crypto-Arbitrage-Analysis-Streaming-data-Analysis)
+> 💹 Built a Spark-based streaming pipeline to monitor arbitrage opportunities across crypto exchanges using time series analytics.
+
+#### 🟧 [Sentiment Analysis on Amazon Product Reviews (AWS NLP Pipeline)]
+> 📊 Designed a fully scalable AWS NLP pipeline using **Glue, Redshift, and S3** for ETL and sentiment classification.  
+> 🚀 Powered a **Streamlit dashboard** to deliver real-time insights to stakeholders for product feedback analysis.
+
+#### 🟫 [Amazon Bin Object Counting (Deep Learning)](https://github.com/riddhi-vyas/Amazon-Bin-Object-Classification)
+> 🧠 Developed a warehouse object classifier using **CLIP + EfficientNet ensemble**. Achieved **60% F1 score** on real-world warehouse images.  
+> 🔧 Enhanced accuracy through fine-tuning and hyperparameter tuning, enabling **real-time bin-level tracking** in Amazon’s inventory systems.
 
 ---
 
@@ -48,7 +66,7 @@ I'm a Data Engineer with 3+ years of experience in software development, data en
 
 ---
 
-### 🎥 & 🎨 Fun Side Projects
+### 🎥 & 🎨 Social Media
 
 - YouTube: [@Riddhi_s_moments](https://youtube.com/@Riddhi_s_moments)
 - Instagram: [@riddhi_s_moments](https://www.instagram.com/riddhi_s_moments/)
@@ -60,5 +78,3 @@ I'm a Data Engineer with 3+ years of experience in software development, data en
 📍 San Jose, CA  
 📧 riddhi.vyas@sjsu.edu  
 🔗 [LinkedIn](https://www.linkedin.com/in/riddhi-vyas-932820140)
-
----
