@@ -58,7 +58,7 @@ I'm a Data Engineer with 3+ years of experience in software development, data en
 
 ### 📓 Technical Blogs
 
-- [Medium – ML, LLMs & Data Engineering](https://medium.com/@riddhikamleshkumaryas)
+- [Medium – ML, LLMs & Data Engineering](https://medium.com/@riddhikamleshkumar.vyas)
 
 ---
 
