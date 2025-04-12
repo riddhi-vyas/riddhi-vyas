@@ -30,7 +30,7 @@ I'm a Data Engineer with 3+ years of experience in software development, data en
 
 ### 🧠 Featured Projects
 
-#### 🟨 [InvadeAI: Multimodal AI for Interactive Advertising]([https://github.com/riddhi-vyas/InvadeAI](https://github.com/riddhi-vyas/InvadeAI-Multimodal-AI-for-Interactive-Advertising))
+#### 🟨 [InvadeAI: Multimodal AI for Interactive Advertising](https://github.com/riddhi-vyas/InvadeAI-Multimodal-AI-for-Interactive-Advertising)
 > IEEE CAI 2025 Accepted Paper | Used YOLOv8 + BLIP3 + LLaMA3  
 > 📌 Built an AI system for personalized advertising using multimodal data (image + text)
 
