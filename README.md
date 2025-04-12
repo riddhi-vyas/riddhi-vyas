@@ -50,10 +50,6 @@ I'm a Data Engineer with 3+ years of experience in software development, data en
 #### 🟦 [Real-Time Crypto Arbitrage Detection](https://github.com/riddhi-vyas/Real-time-Crypto-Arbitrage-Analysis-Streaming-data-Analysis)
 > 💹 Built a Spark-based streaming pipeline to monitor arbitrage opportunities across crypto exchanges using time series analytics.
 
-#### 🟧 [Sentiment Analysis on Amazon Product Reviews (AWS NLP Pipeline)]
-> 📊 Designed a fully scalable AWS NLP pipeline using **Glue, Redshift, and S3** for ETL and sentiment classification.  
-> 🚀 Powered a **Streamlit dashboard** to deliver real-time insights to stakeholders for product feedback analysis.
-
 #### 🟫 [Amazon Bin Object Counting (Deep Learning)](https://github.com/riddhi-vyas/Amazon-Bin-Object-Classification)
 > 🧠 Developed a warehouse object classifier using **CLIP + EfficientNet ensemble**. Achieved **60% F1 score** on real-world warehouse images.  
 > 🔧 Enhanced accuracy through fine-tuning and hyperparameter tuning, enabling **real-time bin-level tracking** in Amazon’s inventory systems.
