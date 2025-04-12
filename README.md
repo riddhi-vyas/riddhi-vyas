@@ -37,7 +37,7 @@ I'm a Data Engineer with 3+ years of experience in software development, data en
 #### 🟩 [Smart Solar Energy Scheduling with ML](https://github.com/riddhi-vyas/Smart-Solar-Energy-Scheduling-with-Machine-Learning)
 > Energy optimization project using weather + EV charging + solar data
 
-#### 🟦 [Real-Time Crypto Arbitrage Detection](https://github.com/riddhi-vyas/Real-time-Crypto-Arbitrage-Analysis-Streaming-data-Analysis)
+#### 🟦 [Real-Time Crypto Arbitrage Detection](https://github.com/riddhi-vyas/Smart-Solar-Energy-Scheduling-with-Machine-Learning)
 > Streaming + Spark + Time Series | Detected cross-exchange arbitrage in crypto
 
 ---
