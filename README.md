@@ -62,6 +62,16 @@ I'm a Data Engineer with 3+ years of experience in software development, data en
 
 ---
 
+### 🎥 Project Demos & Technical Talks
+
+- 📊 [AWS-based Sentiment Analysis Pipeline (3-min Demo)](https://youtu.be/6Re6vX8HoRE?si=KwtFtDYOb4mFlj90)  
+  Brief walkthrough of building a scalable NLP pipeline using AWS Glue, S3, and Redshift with a Streamlit dashboard.
+
+- 🎙️ [Interview with Industry Expert – Sunny Malik, Sr. Solution Architect @ Snowflake](https://youtu.be/pVNaiYGwdfM?si=8rsqgayzKScwoYpi)  
+  Conducted as part of a group assignment under Big Data Course, this interview dives into modern big data technologies and trends shaping the data landscape.
+
+
+
 ### 🎥 & 🎨 Social Media
 
 - YouTube: [@Riddhi_s_moments](https://youtube.com/@Riddhi_s_moments)
@@ -72,5 +82,5 @@ I'm a Data Engineer with 3+ years of experience in software development, data en
 ### 📬 Contact
 
 📍 San Jose, CA  
-📧 riddhi.vyas@sjsu.edu  
+📧 riddhikamleshkumar.vyas@sjsu.edu
 🔗 [LinkedIn](https://www.linkedin.com/in/riddhi-vyas-932820140)
