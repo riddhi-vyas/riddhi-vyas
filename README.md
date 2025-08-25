@@ -10,19 +10,22 @@ Hi, I'm Riddhi Vyas, a Data Engineer with over three years of experience in soft
 
 <h1 align="center">Hi 👋, I'm Riddhi Vyas</h1>
 <p align="center">
-  🚀 Data Engineer | AI & ML Enthusiast | Master's @ SJSU | Open to May 2025 Roles
+  🚀 Data Scientist | Generative AI & LLMs | MS in Applied Data Science @ SJSU
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-I'm a Data Engineer with 3+ years of experience in software development, data engineering, and applied machine learning. Currently pursuing my MS in Data Analytics at **San Jose State University**, I’m seeking **full-time roles in Data Engineering, ML Engineering, or GenAI** starting **May 2025**.
+I'm a Data Scientist specializing in Generative AI and Machine Learning, with 3+ years of experience building and deploying end-to-end predictive models. As a recent graduate of San Jose State University with an MS in Applied Data Science, I am actively seeking full-time roles where I can leverage large-scale data to solve complex business problems.
 
-- 🔭 Working on: Deploying LLMs with RAG, vector DBs, and LORA fine-tuning  
-- 📚 Exploring: Distributed training, inference optimization, scalable pipelines  
-- 🎯 Passionate about: Real-world AI applications in healthcare, education & energy  
-- 🤝 Let’s connect: [LinkedIn](https://www.linkedin.com/in/riddhi-vyas-932820140)
+🔭 My Focus: Building applications with Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and deploying predictive models.
+
+📚 Key Skills: Python (PyTorch, TensorFlow), NLP (BERT), Computer Vision (CNNs), and AWS (SageMaker, Glue, S3).
+
+🎯 Passionate About: Translating complex data into actionable insights and building reliable, scalable AI systems.
+  
+🤝 Let’s connect: [LinkedIn](https://www.linkedin.com/in/riddhi-vyas-932820140)
 
 ---
 
