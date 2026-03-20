@@ -8,7 +8,7 @@ Hi, I'm Riddhi Vyas, a Data Scientist with 4 years of experience developing scal
 
 <h1 align="center">Hi 👋, I'm Riddhi Vyas</h1>
 <p align="center">
-  🚀 Data Scientist | Generative AI & LLMs | MS in Applied Data Science @ SJSU
+  Data Scientist | LLMs, RAG & Multimodal AI | Python • AWS • MLOps | MS Applied Data Science @SJSU
 </p>
 
 ---
@@ -36,18 +36,10 @@ My expertise lies in building end-to-end AI applications, from fine-tuning Large
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) 
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-[cite_start]![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) 
-[cite_start]![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-[cite_start]![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) 
-[cite_start]![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
 ---
 
@@ -69,7 +61,7 @@ My expertise lies in building end-to-end AI applications, from fine-tuning Large
 > 🧠 Architected a multimodal computer vision ensemble by fine-tuning EfficientNet and integrating OpenAI CLIP embeddings.
 > 📊 Achieved a balanced 41% F1-score across 6 distinct inventory classes and streamlined an image processing pipeline for 500,000+ warehouse images
 
-#### 🟩 [Smart Solar Energy Scheduling with ML](https://github.com/riddhi-vyas/Smart-Solar-Energy-Scheduling-with-Machine-Learning)
+#### 🟨 [Smart Solar Energy Scheduling with ML](https://github.com/riddhi-vyas/Smart-Solar-Energy-Scheduling-with-Machine-Learning)
 > ⚡ Optimized EV charging and home energy use using ML models. Integrated weather, solar, and consumption data into a predictive scheduling system.
 
 ---
