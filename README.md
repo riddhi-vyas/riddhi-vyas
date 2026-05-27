@@ -8,16 +8,15 @@ Hi, I'm Riddhi Vyas, a Data Scientist with 4 years of experience developing scal
 
 <h1 align="center">Hi 👋, I'm Riddhi Vyas</h1>
 <p align="center">
-  Data Scientist | LLMs, RAG & Multimodal AI | Python • AWS • MLOps | MS Applied Data Science @SJSU
+  Data Scientist (ML focus) | LLMs, RAG & Multimodal AI | Python • AWS • MLOps | MS Applied Data Science @SJSU
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-I'm a Data Scientist with 3+ years of experience developing scalable Generative AI and LLM solutions to solve complex business problems. I hold an MS in Applied Data Science from San Jose State University and currently work as a Generative AI Researcher (Deep Learning) at the SJSU Research Foundation.
-
-My expertise lies in building end-to-end AI applications, from fine-tuning Large Language Models and architecting Retrieval-Augmented Generation (RAG) pipelines to deploying predictive models via scalable cloud infrastructure. Recently, my research on multimodal AI for interactive advertising was published in the 2025 IEEE Conference on Artificial Intelligence.
+I'm a Machine Learning Engineer with 3+ years of experience building scalable ML systems, real-time inference pipelines, and Generative AI applications across NLP and computer vision domains. Experienced developing low-latency
+production workflows using AWS, Airflow, Docker, and distributed data pipelines. Specialized in LLM orchestration, multimodal AI, RAG architectures, and production ML deployment for large-scale applications.
 
 🔭 Current Focus: Building applications with Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and deploying predictive models.
 
