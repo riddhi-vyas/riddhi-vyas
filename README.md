@@ -8,7 +8,7 @@ Hi, I'm Riddhi Vyas, a Data Scientist with 4 years of experience developing scal
 
 <h1 align="center">Hi 👋, I'm Riddhi Vyas</h1>
 <p align="center">
-  Data Scientist (ML focus) | LLMs, RAG & Multimodal AI | Python • AWS • MLOps | MS Applied Data Science @SJSU
+  AI Engineer | Data Scientist (ML focus) | LLMs, RAG & Multimodal AI | Python • AWS • MLOps | MS Applied Data Science @SJSU
 </p>
 
 ---
