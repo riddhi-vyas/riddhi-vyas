@@ -24,8 +24,6 @@ production workflows using AWS, Airflow, Docker, and distributed data pipelines.
 
 🎯 Passionate About: Translating complex data into actionable insights and building reliable, scalable AI systems.
 
-🤝 Let’s connect: [LinkedIn](https://www.linkedin.com/in/riddhi-vyas-932820140)
-
 ---
 
 ### 💻 Tech Stack
@@ -84,4 +82,3 @@ production workflows using AWS, Airflow, Docker, and distributed data pipelines.
 ### 📬 Contact
 
 📍 San Jose, CA, USA
-🔗 [LinkedIn](https://www.linkedin.com/in/riddhi-vyas-932820140)
